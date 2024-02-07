@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=zaynelee&theme=default)](https://zaynelee.tistory.com)
 </div><br>
 
  
