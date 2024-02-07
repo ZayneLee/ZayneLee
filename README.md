@@ -51,7 +51,8 @@
     <br>
     <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
-    <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white"> 
+    <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white">
+    <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> 
     <br>
 </div><br>
 </div>
