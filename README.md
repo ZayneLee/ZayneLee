@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
     <img src="https://img.shields.io/badge/React 61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Amazon 3178C6?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
     <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
