@@ -40,7 +40,7 @@
     <br>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    <img src="https://img.shields.io/badge/firebase-61DAFB?style=for-the-badge&logo=firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/firebase-61DAFB?style=for-the-badge&logo=firebase&logoColor=black">
     <br>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
