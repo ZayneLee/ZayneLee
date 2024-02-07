@@ -40,8 +40,8 @@
     <br>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/[ICON SLUG].svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/[ICON SLUG].svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/#C71A36.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/C71A36.svg" />
     <br>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
