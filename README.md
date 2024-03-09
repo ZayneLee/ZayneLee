@@ -16,6 +16,8 @@
     </a>
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=zaynelee&postId=default&theme=default)](https://zaynelee.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=zaynelee&postId=default)](https://github.com/loosie/github-readme-tistory-card)
+
 </div><br>
 
  
