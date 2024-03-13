@@ -14,8 +14,12 @@
     <a href="https://zaynelee.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
+
+<div align="middle">
   
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=zaynelee)](https://zaynelee.tistory.com)
+
+</div>
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=zaynelee&postId=default)](https://zaynelee.tistory.com)
 
