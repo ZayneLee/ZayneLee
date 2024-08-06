@@ -14,8 +14,9 @@
     <a href="https://zaynelee.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&color=orange"> 
     </a>
+    <br>
     <a href="https://zaynelee.tistory.com">
-        <img src="https://github.com/ZayneLee/Illustrator-workspace/blob/573c3f38acf7c79c65797df3c1bb03d60d14ce78/tistory1.png" width="400"> 
+        <img src="https://github.com/ZayneLee/Illustrator-workspace/blob/573c3f38acf7c79c65797df3c1bb03d60d14ce78/tistory1.png" width="500"> 
     </a>
 </div><br>
 
